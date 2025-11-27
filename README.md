@@ -34,7 +34,7 @@ The project requires the **.NET 8 SDK** (or newer) to run.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Dofflix/Genshin-Core-Layer.git](https://github.com/Dofflix/Genshin-Core-Layer.git)
+    git clone [https://github.com/Doffliz/Genshin-Core-Layer.git](https://github.com/Dofflix/Genshin-Core-Layer.git)
     cd Genshin-Core-Layer
     ```
 2.  **Execute the Application:**
