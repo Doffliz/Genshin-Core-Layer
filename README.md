@@ -1,6 +1,6 @@
 # 🌟 Genshin Character Catalog: Core Business Logic Layer (Practical 14)
 
-This repository contains the implementation of the **Core Business Logic Layer (CORE)** for the Genshin Impact character catalog as part of Practical Assignment No. 14 on Software Architecture.
+This repository contains the implementation of the **Core Business Logic Layer (CORE)** for the Genshin Impact character catalog as part of Practical Assignment No. 14
 
 ---
 
